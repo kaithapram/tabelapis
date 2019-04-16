@@ -1,0 +1,11 @@
+---
+layout: post
+title:  >
+    Tabela pis 2018
+date:   2019-04-16 15:35:46 +0000
+---
+
+
+Além de servir como prova do número de registo no PIS, também serve para receber pagamentos associados ao PIS. O PIS foi criado pela Lei Complementar 07/70 (para beneficiar funcionários da iniciativa privada), enquanto o PASEP foi criado pela Lei Complementar 08/70 (para beneficiar funcionários públicos). O fundo PIS PASEP é administrado pelo Ministério da Fazenda, embora muitos afirmem que a CAIXA foi o primeiro coletor. O fato é falso, a CAIXA foi depositária fiel, o governo criou o LEI e cada empresa arrecadou dinheiro dos trabalhadores e de si mesma e o depositou na conta da CAIXA.
+
+[tabela pis 2018](https://forum.imasters.com.br/topic/580997-exbirocultar-checkbox-dentro-de-td/)
